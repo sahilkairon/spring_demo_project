@@ -1,0 +1,2 @@
+# spring_demo_project
+This is a spring demo project that includes how application context is used to get the beans from the bean factory and how to use different annotations like autowired and components . And how to use messagesource fuctionality of Spring to get the messages from the properties file in Spring with the help of getMessage() method and use of Key. Spring is very useful framework that makes dependency injection easy and helps in making enterprise level applications that are loosely coupled. 
